@@ -1,0 +1,4 @@
+Nr#value
+inc#str
+#
+1#

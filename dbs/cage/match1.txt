@@ -1,0 +1,5 @@
+Nr#name#position#ability#unsure#waiting
+inc#str#str#str#int#int
+#####
+
+1#Samaras#cf#NeverGiveUp#0#0

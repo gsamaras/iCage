@@ -1,0 +1,85 @@
+body {
+	background: -webkit-linear-gradient(90deg, #485563 10%, #29323c 90%); /* Chrome 10+, Saf5.1+ */
+	background: -moz-linear-gradient(90deg, #485563 10%, #29323c 90%); /* FF3.6+ */
+	background: -ms-linear-gradient(90deg, #485563 10%, #29323c 90%); /* IE10 */
+	background: -o-linear-gradient(90deg, #485563 10%, #29323c 90%); /* Opera 11.10+ */
+	background: linear-gradient(90deg, #485563 10%, #29323c 90%); /* W3C */
+}
+
+
+.cool_text {
+	font-size: 18px;
+	background: -webkit-linear-gradient(rgba(228,245,252,1), rgba(16,74,96,1));
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
+
+.cool_text_darker {
+	font-size: 14px;
+	background: -webkit-linear-gradient(rgba(184,225,252,1), rgba(75,145,188,1));
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
+
+
+.cool_white {
+	font-size: 18px;
+    color: white;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+.cool_dark_white {
+	font-size: 18px;
+    color: rgba(243,230,230,1);
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+/*
+ * For the text.
+ * Example: http://jsfiddle.net/7yBNv/
+ */
+.Gradient {
+	position: relative;
+	overflow: hidden;
+	height: 28px;
+}
+.Gradient, .Gradient .G1, .Gradient .G2, .Gradient .G3, .Gradient .G4, .Gradient .G5 {
+	height: 28px;
+	position: absolute;
+	margin: 0;
+	top: 0px;
+	left: 0px;
+	color: #4a778b;
+	font-family: century gothic, helvetica, arial;
+	font-size: 23px;
+	font-weight: normal;
+	overflow: hidden;
+}
+.Gradient {
+	position: relative;
+}
+.Gradient .G5 {
+	height: 10px;
+	color: #81a4b4;
+	z-index: 6;
+}
+.Gradient .G4 {
+	height: 13px;
+	color: #789eae;
+	z-index: 5;
+}
+.Gradient .G3 {
+	height: 16px;
+	color: #6f96a6;
+	z-index: 4;
+}
+.Gradient .G2 {
+	height: 19px;
+	color: #618a9c;
+	z-index: 3;
+}
+.Gradient .G1 {
+	height: 22px;
+	color: #547f92;
+	z-index: 2;
+}

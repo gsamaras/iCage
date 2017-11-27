@@ -1,0 +1,11 @@
+body{
+	background: url("../../img/silverBall.jpg") no-repeat center right fixed; 
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+}
+
+.points {
+	font-weight: bold;
+}

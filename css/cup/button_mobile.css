@@ -1,0 +1,19 @@
+.btn {
+	display: none;
+}
+
+.wrap {
+	width: 90%;
+	margin-left: 5%;
+	margin-top: 5%;
+}
+
+#wrap2 {
+	margin-top: 5%;
+	margin-bottom: 5%;
+}
+
+.icon {
+	background-position: 2% center;
+	text-indent: 60px;
+}

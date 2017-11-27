@@ -1,0 +1,27 @@
+body { 
+  /*background: -webkit-linear-gradient(90deg, #304352 10%, #d7d2cc 90%);
+  background:    -moz-linear-gradient(90deg, #304352 10%, #d7d2cc 90%);
+  background:     -ms-linear-gradient(90deg, #304352 10%, #d7d2cc 90%);
+  background:      -o-linear-gradient(90deg, #304352 10%, #d7d2cc 90%);
+  background:         linear-gradient(90deg, #304352 10%, #d7d2cc 90%);
+  
+  background: -webkit-linear-gradient(90deg, #8e9eab 10%, #eef2f3 90%);
+  background:    -moz-linear-gradient(90deg, #8e9eab 10%, #eef2f3 90%);
+  background:     -ms-linear-gradient(90deg, #8e9eab 10%, #eef2f3 90%);
+  background:      -o-linear-gradient(90deg, #8e9eab 10%, #eef2f3 90%);
+  background:         linear-gradient(90deg, #8e9eab 10%, #eef2f3 90%);*/
+ 
+ background-image: radial-gradient(mintcream 0%, gray 100%);
+ font-family: "Trebuchet MS";
+}
+
+/* relevant to component.css */
+.prev, .next {
+	cursor: pointer;
+	display: none;
+}
+
+/* The choose file, when uploading pic */
+#input_pic {
+	display: none;
+}

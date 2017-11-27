@@ -1,0 +1,49 @@
+Nr#pic#name#birth#height#team#joined#number#foot#att#def#strength#stamina#sp#head#drib#agility#shot#keeper#teamwork#tech#menta#freekick#pos#special#m2m0#m2m1#todo0#todo1#todo2#todo3
+inc#str#str#str#str#str#str#int#str#int#int#int#int#int#int#int#int#int#int#int#int#int#int#str#str#str#str#str#str#str#str
+##############################
+1#dimitriadis#Panagiotis Dimitriadis#16/10/1994#Normal#RAKoun#15/10/2012#8#R#70#70#35#75#61#50#80#82#67#50#99#90#75#50#DMF#Playmaker#Fanis Lathouras#Yannis Skopelitis#Let him shot#Press him#Beware of passes#void
+2#kar_mit#Teo Karavousanos#31/12/1994#Tall#RAKoun#20/10/2012#9#R#80#30#95#55#40#65#55#30#70#75#75#50#75#50#CF#Strong body#Yannis Drogitis#Dimitris Mariglis#Press him#void#void#void
+3#mivi#Argiris Mavrelis#17/01/1994#Normal#RAKoun#18/10/2013#11#R#99#55#90#90#61#82#75#72#99#50#65#70#87#50#CF#Goal scorer#Theodosis Tzanetakis#George Apostolopoulos#Do not let him shoot#void#void#void
+4#vergis#George Vergis#06/12/1994#Short#RAKoun#19/11/2013#4#R#50#99#95#99#97#99#25#89#60#99#85#28#94#20#CB#Fast good stopper#Dimitris Mariglis#George Samaras#Do not shoot when he goalkeeps#Do not try to outpace#No high crosses#void
+5#polizos#Padelis Polizos#18/08/1994#Tall#RAKoun#12/09/2015#5#R#35#94#95#88#59#95#70#60#60#65#85#68#90#50#CB#Super balance#George Samaras#Dimitris Mariglis#Do not go physical#No high crosses#void#void
+6#sot#Nick Sotiropoulos#22/10/1994#Short#RAKoun#13/09/2012#10#R#55#40#30#70#53#40#99#98#90#50#72#99#75#88#CMF#Only dribbling#Yannis Drogitis#Dimitris Mariglis#Wait for his dribble#Let him pass#void#void
+7#apostolakis#Mike Apostolakis#25/06/1994#Normal#RAKoun#11/08/2013#2#R#30#90#85#70#50#89#50#50#85#50#75#40#75#50#CB#Tackling in the throat#George Samaras#George Apostolopoulos#Do not go physical#void#void#void
+8#dinas.jpg#Thomas Dinas#21/02/1994#Tall#RAKoun#15/10/2012#7#R#98#20#40#70#96#50#98#96#99#50#80#98#70#93#CMF#Good shot#George Samaras#Theodosis Tzanetakis#Do not let him shoot#Bad defender#void#void
+9#teo.jpg#Theodosis Tzanetakis#05/08/1992#Normal#Panklouviakos#15/06/2010#4#R#50#99#97#99#72#96#50#50#68#75#94#40#97#50#CB#Experienced defender#Argiris Mavrelis#Panagiotis Dimitriadis#Do not ho physical#void#void#void
+10#apostolo_terry.jpg#George Apostolopoulos#27/11/1996#Tall#Panklouviakos#01/02/2014#5#R#30#91#94#85#65#95#20#30#50#99#94#30#93#30#CB#Good stopper#Panagiotis Dimitriadis#Yannis Pappas#Avoid high crosses#Do not go physical#void#void
+11#fil.jpg#Dimitris Philiopoulos#10/10/1993#Tall#ui48975#01/01/2012#7#R#97#50#60#97#99#70#50#99#97#99#30#70#75#60#CF#Hard to catch#Theodosis Tzanetakis#George Vergis#He will try to outpace you#Do not let him shoot#void#void
+12#fanis.jpg#Fanis Lathouras#06/01/1998#Normal#genia98#10/08/2015#10#R#90#20#50#60#40#40#90#50#99#50#60#90#94#80#CF#Good shot#Mike Apostolakis#Nikos Tsafos#Do not let him shoot#void#void#void
+13#fiorel.jpg#Fiorel Mali#26/02/1995#Normal#Ouza&Zabon#01/06/2010#10#R#90#70#40#80#60#40#99#95#96#70#99#97#96#95#DMF#Speaks to the ball#G. Samaras#Yannis Drogitis#Wait for his dribble#void#void#void
+14#gouletas.jpg#Mike Gouletas#21/04/1994#Normal#Panklouviakos#08/05/2012#8#R#70#70#70#90#80#50#97#82#75#50#95#97#97#70#CMF#Possession of ball#Panagiotis Dimitriadis#Dimitris Stathopoulos#Press him#void#void#void
+15#lazidis.jpg#Kwstas Lazidis#27/10/1993#Normal#Cage#01/06/2010#6#R#70#80#85#80#60#50#80#40#99#50#98#70#93#70#DMF#Strong foot#Sotiris Stathogiannakis#Dimitris Stathopoulos#Do not let him shoot#void#void#void
+16#manthos.jpg#Manthos Markou#19/09/1991#Normal#Cage#10/10/2010#3#R#30#82#90#70#60#50#40#30#70#50#98#40#80#50#LB#Strong defender#Yannis Drogitis#Dimitris Mariglis#Wait for his pass#void#void#void
+17#pavlos.jpg#Pavlos Milaszewicz#28/01/1991#Normal#Cage#10/10/2011#7#R#92#40#60#99#95#40#99#99#90#50#97#92#70#75#WF#Argentinian#George Vergis#Nikos Tsafos#Press him#void#void#void
+18#skout.jpg#Vasilis Skouteris#13/07/1993#Normal#Cage#10/10/2011#6#R#65#90#90#98#82#40#94#65#93#50#95#90#87#50#CMF#Balanced player#George Samaras#George Vergis#Press him#void#void#void
+19#tsafos.jpg#Nikos Tsafos#10/10/1991#Tall#ui48975#10/06/2012#4#R#20#99#90#98#95#97#30#90#20#90#80#20#70#50#CB#Very good stopper#George Samaras#Argiris Mavrelis#No high crosses#Do not go physical#Do not try to outpace#void
+20#received_1088805647797715.jpeg#Vangelis Kastanias#01/03/1994#Tall#Cage#10/10/2013#7#L#40#30#60#20#20#20#50#20#80#40#40#60#40#60#WF#Finesse Shot, Injury Prone, Looks for the long Ball, Prays to God#Name Surname#Name Surname#void#void#void#void
+21#nikos.jpg#Nikos Midha#28/09/1992#Normal#Cage#10/11/2014#7#L#85#60#65#70#87#70#80#80#81#50#98#82#99#50#CF#Zidane dribble#Stravros Bezhanis#Irnti Shehu#Press him#void#void#void
+22#tom.jpg#Thomas Poulis#19/02/1992#Tall#Cage#01/06/2010#11#R#75#75#85#87#69#50#65#60#20#50#99#65#92#50#CF#Special corner kicks#George Vergis#Nikos Tsafos#Let him shoot#Press him#void#void
+23#st_tsiartas.jpg#Dimitris Stathopoulos#24/05/1994#Normal#Cage#08/10/2013#10#R#75#40#50#55#62#50#92#50#85#50#99#92#54#80#CMF#Xwris xiastus#George Vergis#Fiorel Mali#Press him#void#void#void
+24#kourkouti-ethniki-ellada-proponitis-adwnis-gewrgiadis.jpg#Panagiotis Kokkoris#24/05/1994#Tall#Cage#01/01/2011#99#R#40#65#70#40#40#40#60#35#30#70#60#45#25#35#CB#Likes to clean the ball out wide,Loves to cut from the left inside,Attempts long ball passes,Loses concentration,#Kastanias Vangelis#Stratis Zavi#void#void#void#void
+25#spiropoulos.jpg#Xaris Spiropoulos#10/02/1996#Short#Real Klarin#10/10/2011#2#R#25#82#25#60#60#47#35#77#46#50#95#55#89#50#RB#Defending position#Panagiotis Dimitriadis#Teo Karavousanos#Defends good at corners#Press him#void#void
+26#topsecret.jpg#Makis Dimitriou#01/01/1995#Normal#Ouza&Zabon#13/10/2015#8#L#85#85#93#98#80#73#75#70#83#50#88#70#82#86#DMF#He is everywhere!#Samaras#Theodosis#Play aggresive on him#void#void#void
+27#loubo.jpg#Giorgos Loubardis#17/11/1995#Normal#Ouza&Zabon#15/06/2015#4#R#25#91#80#71#65#79#30#21#76#50#87#20#90#50#CB#Good stopper#Drogitis#Mariglis#Do not go physical#void#void#void
+28#peri.jpg#Periklis Gkotsis#27/12/1995#Tall#Ouza&Zabon#15/11/2012#7#R#65#55#95#68#65#65#68#30#65#50#60#30#67#50#AMF#Strong player#Mariglis#Apostolopoulos#Do not go physical#void#void#void
+29#bill.jpg#Bill Papadimitropoulos#11/04/1995#Tall#Ouza&Zabon#10/06/2013#9#R#68#55#92#90#60#90#20#20#70#70#60#25#80#50#CF#Basketball#Theodosis#Apostolopoulos#Avoid high balls#void#void#void
+30#nek.jpg#Nektarios Moustakis#22/11/1995#Normal#Ouza&Zabon#10/10/2014#11#R#70#40#40#65#65#68#73#67#69#50#80#82#83#50#WF#Plays on the side#Mariglis#Apostolopoulos#Press him#void#void#void
+31#mpekes.jpg#Marios Mpekes#27/01/1995#Short#Ouza&Zabon#10/08/2015#1#R#20#85#60#60#30#50#50#50#64#89#90#50#78#50#GK#Passionate goalkeeper#Samaras#Drogitis#Aim for his corners#void#void#void
+32#mous.jpg#George Moustakis#14/07/1995#Normal#Ouza&Zabon#10/10/2010#11#R#85#35#70#62#63#78#80#50#81#50#83#82#90#50#CF#Canada guy#Apostolopoulos#Theodosis#Press him#void#void#void
+33#kots.jpg#Nikos Kotsakis#10/10/1996#Tall#Cage#10/10/2014#6#R#75#60#88#96#63#70#85#30#89#50#93#90#82#70#CMF#Water polo guy#Gouletas#Dimitriadis#Press him#void#void#void
+34#swthrhs.jpg#Sotiris Stathogiannakis#09/09/1991#Normal#ui48975#10/10/2013#8#R#70#70#89#92#62#50#90#68#91#50#99#95#75#70#CMF#Playmaker#George Samaras#Giannis Drogitis#Panagiotis DimitriadisPanagiotis DimitriadisForesee his pass#Teo KaravousanosTeo KaravousanosTask2#Argiris MavrelisArgiris MavrelisTask3#George VergisGeorge VergisTask4
+35#gotsis.jpg#Stavros Gkotsis#10/10/1993#Normal#ui48975#01/01/2011#9#R#75#30#76#50#57#60#50#50#65#50#60#57#99#50#CF#Passion#George Apostolopoulos#Dimitris Mariglis#Block his shot#void#void#void
+36#kostarikis.jpg#Kostarikis#10/10/1993#Normal#ui48975#10/10/2014#10#R#60#60#70#75#60#50#94#70#95#50#96#98#80#89#CMF#Awareness#Giannis Drogitis#Theodosis Tzanetakis#Give him space#void#void#void
+37#L.jpg#Leonidas Oikonomopoulos#24/10/1998#Normal#genia98#10/08/2015#1#R#20#75#70#40#23#50#20#20#50#97#80#25#98#50#GK#Reliable goalkeeper#Yiannis Drogitis#George Samaras#Shot at him low and hard#void#void#void
+38#granas.jpg#Antreas Granas#14/11/1998#Normal#genia98#15/11/2015#4#R#32#90#97#80#60#79#30#25#78#50#75#20#85#50#CB#Good balance#George Samaras#Thedosis Tzanetakis#Do not go physical#void#void#void
+39#griva.jpg#Apollonas Grivas#03/02/1998#Normal#genia98#15/11/2015#2#R#60#60#61#54#60#50#71#69#67#50#73#75#68#50#RB#Wears a hat#Yiannis Drogitis#George Apostolopoulos#Press him#void#void#void
+40#v.jpg#Spiros Vnatsios#04/04/1998#Normal#genia98#15/11/2015#15#R#20#77#75#50#50#55#20#64#60#90#95#20#54#50#GK#Athletic goalkeeper#Yiannis Drogitis#George Samaras#Avoid high crosses#void#void#void
+41#ast.jpg#Antreas Stathogiannakis#08/02/1992#Short#genia98#10/10/2014#10#R#75#45#40#65#61#50#95#70#76#50#96#93#85#78#CMF#Playmaker#George Samaras#Theodosis Tzanetakis#Wait for his pass#void#void#void
+42#oikonomok.jpg#Konstantinos Oikonomopoulos#19/03/1995#Normal#Real Klarin#10/10/2014#4#R#30#90#95#70#60#70#21#22#76#50#72#30#90#50#CB#Strong stopper#George Samaras#Theodosis Tzanetakis#Do not go physical#void#void#void
+43#laganas.jpg#Babis Laganas#12/07/1996#Normal#Real Klarin#10/10/2014#2#R#70#73#85#95#75#60#76#60#78#50#74#65#60#50#RB#Plays in a team#George Samaras#George Apostolopoulos#Do not let him shot#void#void#void
+44#pappas.jpg#Yiannis Pappas#16/10/1996#Short#Real Klarin#07/10/2014#11#R#80#33#50#70#95#20#96#99#85#50#42#97#69#50#CMF#Clutch#George Samaras#Theodosis Tzanetakis#Do not let him shot#Wait for his dribble#void#void
+45#skrekis.jpg#Stamatis Skrekis#21/09/1996#Short#Real Klarin#07/10/2014#1#R#20#78#50#50#50#20#23#70#50#82#90#50#54#50#GK#Comes out of his line rapidly#George Samaras#Theodosis Tzanetakis#Aim for his corners#Taks2#void#void
+46#skope.jpg#Yiannis Skopelitis#17/10/1996#Normal#Real Klarin#07/10/2014#9#R#85#20#50#50#55#40#66#50#79#50#20#64#40#50#CF#Goal scorer#George Apostolopoulos#Theodosis Tzanetakis#Do not let him shot#Taks2#void#void

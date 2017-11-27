@@ -1,0 +1,1 @@
+function imageIsLoaded(i){$(".profile_pic").attr("src",i.target.result)}$(function(){$(":file").change(function(){if(this.files&&this.files[0]){var i=new FileReader;i.onload=imageIsLoaded,i.readAsDataURL(this.files[0])}})}),$(document).ready(function(){$(".profile_pic").click(function(){$("#input_pic").trigger("click")})});

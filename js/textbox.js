@@ -1,0 +1,1 @@
+function autoheight(a){if(!$(a).prop("scrollTop")){do{var b=$(a).prop("scrollHeight"),c=$(a).height();$(a).height(c-5)}while(b&&b!=$(a).prop("scrollHeight"))}$(a).height($(a).prop("scrollHeight"))}$("#cagetextbox").on("keyup change",function(a){autoheight(this)});function updateTextbox(a){$("#cagetextbox").val(a);autoheight($("#cagetextbox"))};

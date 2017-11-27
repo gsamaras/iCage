@@ -1,0 +1,50 @@
+Nr#player#goals#team
+inc#str#int#str
+
+1#Sotiris Stathogiannakis#11#ui48975
+2#Nikos Flegkas#6#ui48975
+3#Dimitris Philiopoulos#19#ui48975
+4#Nikos Tsafos#3#ui48975
+5#Kostarikis Kostarikanos#9#ui48975
+6#Thanasis Tsafos#0#ui48975
+7#Stavros Gkotsis#8#ui48975
+8#Nikos Skouteris#0#ui48975
+9#Fanis Lathouras#12#Genia tou 98
+10#Leonidas Oikonomopoulos#3#Genia tou 98
+11#Antreas Granas#7#Genia tou 98
+12#Apollonas Grivas#1#Genia tou 98
+13#Spiros Vnatsios#7#Genia tou 98
+14#Alex Asimakopoulos#0#Genia tou 98
+15#Antreas Stathogiannkis#5#Genia tou 98
+16#Fiorel Mali#19#Ouza&Zabon
+17#Giorgos Loubardis#1#Ouza&Zabon
+18#Periklis Gkotsis#15#Ouza&Zabon
+19#Mike Dimitriou#1#Ouza&Zabon
+20#Bill Papadimitropoulos#17#Ouza&Zabon
+21#Nektarios Moustakis#19#Ouza&Zabon
+22#Marios Mpekes#0#Ouza&Zabon
+23#George Moustakis#7#Ouza&Zabon
+24#George Samaras#43#Panklouviakos
+25#Theodosis Tzanetakis#20#Panklouviakos
+26#George Apostolopoulos#4#Panklouviakos
+27#Dimitris Mariglis#8#Panklouviakos
+28#Yannis Drogitis#18#Panklouviakos
+29#Nikos Midha#5#Panklouviakos
+30#Thodoris Samaras#11#Panklouviakos
+31#Mike Gouletas#3#Panklouviakos
+32#Kwstas Lazidis#6#Panklouviakos
+33#Thomas Poulis#0#Panklouviakos
+34#Panagiotis Dimitriadis#5#RAKoun
+35#Thodoris Karavousanos#6#RAKoun
+36#Argiris Mavrelis#19#RAKoun
+37#Giorgos Vergis#17#RAKoun
+38#Nikos Sotiropoulos#2#RAKoun
+39#Pantelis Polizos#2#RAKoun
+40#Mike Apostolakis#0#RAKoun
+41#Tom Dinas#0#RAKoun
+42#Xaris Spiropoulos#13#Real Klarin
+43#Kostas Oikonomopoulos#13#Real Klarin
+44#Babis Laganas#13#Real Klarin
+45#Yannis Pappas#11#Real Klarin
+46#Stamatis Skrekis#2#Real Klarin
+47#Yannis Skopelitis#20#Real Klarin

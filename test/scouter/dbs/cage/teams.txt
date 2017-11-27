@@ -1,0 +1,9 @@
+Nr#team#password#size#player1#player2#player3#player4#player5#player6#player7#player8#player9#player10#player11#player12#player13#player14#player15#player16#player17#player18#player19#player20
+inc#str#str#int#str#str#str#str#str#str#str#str#str#str#str#str#str#str#str#str#str#str#str#str
+#######################
+
+1#RAKoun#void#8#Panagiotis Dimitriadis#Teo Karavousanos#Argiris Mavrelis#George Vergis#Padelis Polizos#Nick Sotiropoulos#Mike Apostolakis#Thomas Dinas#null#null#null#null#null#null#null#null#null#null#null#null
+2#Ouza&Zabon#void#8#Fiorel Mali#Makis Dimitriou#Giorgos Loubardis#Periklis Gkotsis#Bill Papadimitropoulos#Nektarios Moustakis#Marios Mpekes#George Moustakis#null#null#null#null#null#null#null#null#null#null#null#null
+3#ui48975#void#6#Dimitris Philiopoulos#Vasilis Skouteris#Nikos Tsafos#Sotiris Stathogiannakis#Stavros Gkotsis#Kostarikis#null#null#null#null#null#null#null#null#null#null#null#null#null#null
+4#genia98#void#6#Fanis Lathouras#Leonidas Oikonomopoulos#Antreas Granas#Apollonas Grivas#Spiros Vnatsios#Antreas Stathogiannakis#null#null#null#null#null#null#null#null#null#null#null#null#null#null
+5#Real Klarin#void#6#Xaris Spiropoulos#Konstantinos Oikonomopoulos#Babis Laganas#Yiannis Pappas#Stamatis Skrekis#Yiannis Skopelitis#null#null#null#null#null#null#null#null#null#null#null#null#null#null

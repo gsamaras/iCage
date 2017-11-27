@@ -1,0 +1,1 @@
+ul li,ul li span{list-style-type:none}.center_ol{text-align:center;list-style-position:inside}ul li{text-align:right}ul li span{background:url(../../img/arrow.svg) 0 50% no-repeat;padding-left:12px;float:left}ul li span:after{content:'';position:absolute;display:block;width:90%;margin-left:-12px;border-bottom:dashed 2px #54687a}

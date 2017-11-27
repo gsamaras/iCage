@@ -1,0 +1,21 @@
+#picTable {
+    height: 50px;
+    width: 100px;
+    padding: 2px;
+    /* Hover OUT*/
+    transition: width 1s, height 1s, opacity 2s;
+    -moz-transition: width 1s, height 1s, opacity 2s;
+    -webkit-transition: width 1s, height 1s, opacity 2s;
+    -o-transition: width 1s, height 1s, opacity 2s;
+}
+
+#picTable:hover {
+    opacity: 1.0;
+    filter: alpha(opacity=100); /* For IE8 and earlier */
+    height: 300px;
+    width: 300px;
+    transition: width 1s, height 1s, opacity 2s;
+    -moz-transition: width 1s, height 1s, opacity 2s;
+    -webkit-transition: width 1s, height 1s, opacity 2s;
+    -o-transition: width 1s, height 1s, opacity 2s;
+}
