@@ -9,3 +9,4 @@ based on the users' feedback. It contains:
 
 [Live-demo](http://cgi.di.uoa.gr/~grad1459/cage.html)
 
+Further reading in my [blog](https://gsamaras.wordpress.com/projects/#cageapps).
