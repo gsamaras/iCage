@@ -1,0 +1,10 @@
+Nr#name#password#position#ability
+inc#str#str#str#str
+####
+
+1#Fiorel#sced23#cmf#Maestro
+2#Dimitriadis#aek21#cmf#assists
+3#Gkotsis#gkotsis93ftw#cf#asxetos
+4#Vergis#ole3#cb#Header
+5#Spiropoulos#Xaraklas96#rb#babasKallidi
+6#Philiopoulos#$$$#cmf#asxetos
