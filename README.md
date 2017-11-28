@@ -1,5 +1,5 @@
 # iCage
-*iCage* is a Web Full-stack application for organizing amateur football games. A project that was developed for 4+ years,
+*iCage* is a Web Full-stack application for organizing amateur football tournaments. A project that was developed for 4+ years,
 based on the users' feedback. It contains:
 
 - Scheduler with Prediction on available players for a given match.
